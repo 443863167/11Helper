@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<root newVersion="1.5">
-    <node version="1.5" isUpdate="true">
-        <notice isShow="true">
+<root newVersion="1.51">
+    <node version="1.5" isUpdate="false">
+        <notice isShow="false">
             <text>443863167 很懒, 啥也没写</text>
-            <text>加入于 1小时前</text>
         </notice>
         <content>
             <text>更新说明:</text>
-            <text>①修复偷偷加入的东西的BUG...</text>
-            <text>②优化部分选项</text>
+            <text>①无法获取战绩BUG</text>
+            <text>②优化:更换更新源</text>
+            <text>③优化部分选项</text>
             <text>感谢您对11MH的厚爱，我们将不断完善产品功能，给您更好的游戏体验！</text>
-            <text>下载地址: http://pan.baidu.com/s/1skRBT5j</text>
-            <text>更新时间：2017-05-29 12:17:44</text>
         </content>
-        <crcCheck>lZoRPzhk0x1j+DXSyg==</crcCheck>
+        <download>http://pan.baidu.com/s/1qX8Ko5u</download>
+        <updateTime>2017-07-28 19:51:14</updateTime>
+    </node>
+    <node version="1.51" isUpdate="false">
+        <notice isShow="false">
+            <text>443863167 很懒, 啥也没写</text>
+        </notice>
+        <content>
+            <text>更新说明:</text>
+            <text>①修复:在竞技场下,战绩信息不准确BUG</text>
+            <text>②修复:部分用户无法正常使用快捷键问题</text>
+            <text>③优化部分选项</text>
+            <text>感谢您对11MH的厚爱，我们将不断完善产品功能，给您更好的游戏体验！</text>
+        </content>
+        <download>http://pan.baidu.com/s/1jI24Tz4</download>
+        <updateTime>2017-10-01 11:38:14</updateTime>
     </node>
 </root>
