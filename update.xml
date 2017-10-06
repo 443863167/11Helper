@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<root newVersion="1.51">
+<root newVersion="1.52">
     <node version="1.5" isUpdate="false">
         <notice isShow="false">
             <text>443863167 很懒, 啥也没写</text>
@@ -14,7 +14,7 @@
         <download>http://pan.baidu.com/s/1qX8Ko5u</download>
         <updateTime>2017-07-28 19:51:14</updateTime>
     </node>
-    <node version="1.51" isUpdate="false">
+    <node version="1.51" isUpdate="true">
         <notice isShow="false">
             <text>443863167 很懒, 啥也没写</text>
         </notice>
@@ -27,5 +27,19 @@
         </content>
         <download>http://pan.baidu.com/s/1jI24Tz4</download>
         <updateTime>2017-10-01 11:38:14</updateTime>
+    </node>
+    <node version="1.52" isUpdate="false">
+        <notice isShow="false">
+            <text>443863167 很懒, 啥也没写</text>
+        </notice>
+        <content>
+            <text>更新说明:</text>
+            <text>①修复:在竞技场下,战绩信息不准确BUG</text>
+            <text>②修复:部分用户无法正常使用快捷键问题</text>
+            <text>③优化部分选项</text>
+            <text>感谢您对11MH的厚爱，我们将不断完善产品功能，给您更好的游戏体验！</text>
+        </content>
+        <download>https://pan.baidu.com/s/1hsrdZne</download>
+        <updateTime>2017-10-06 15:27:47</updateTime>
     </node>
 </root>
